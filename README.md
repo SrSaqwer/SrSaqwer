@@ -32,7 +32,7 @@
 - :rocket: Colaboro Con varios servidores
 - :man_technologist: Antiguo becario jefe de proyecto en la Fundación Strikers
 - :dart: Life Hack: "Explore :fire: y explotar :bomb: with knowledge" 
-- :trophy: Amigos Arcaa - MrFlanders - JR
+- :trophy: Amigos m1zix, Zeus, Pipanio,Juanma
 - :zap: Dato curioso: Me encanta asistir a Meetups para aprender y a Conferencias para hacer Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
