@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> Soy Saqwer Developer de JAVA - Pyton :computer:<br>
+  <br> Soy Saqk Developer de C++ - LUA :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -27,10 +27,10 @@
 
 <h2 align="left">👨🏻‍💻 Sobre Mi:</h2>
 
-- :computer: Actualmente estoy trabajando en Neptune Comp
-- :hourglass_flowing_sand:  Exploración de Google Cloud y Microsoft Azure
+- :computer: Actualmente estoy trabajando en mi propia Empresa
+- :hourglass_flowing_sand:  Actualmente Soltero :D
 - :rocket: Colaboro Con varios servidores
-- :man_technologist: Antiguo becario jefe de proyecto en la Fundación Strikers
+- :man_technologist: Owner ElectricHCF
 - :dart: Life Hack: "Explore :fire: y explotar :bomb: with knowledge" 
 - :trophy: Amigos m1zix, Zeus, Pipanio,Juanma
 - :zap: Dato curioso: Me encanta asistir a Meetups para aprender y a Conferencias para hacer Networking<br>
